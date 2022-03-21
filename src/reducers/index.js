@@ -22,6 +22,17 @@ const reducer = (state = initialState, action) => {
                 ...state,
                 heroesLoadingStatus: 'error'
             }
+        case 'HERO_CREATED':
+            // Формируем новый массив    
+            let newCreatedHeroList = [...state.heroes, action.payload];
+            return {
+                ...state,
+                heroes: newCreatedHeroList
+                // Фильтруем новые данные по фильтру, который сейчас применяется
+                // filteredHeroes: state.activeFilter === 'all' ? 
+                //                 newCreatedHeroList : 
+                //                 newCreatedHeroList.filter(item => item.element === state.activeFilter)
+            }
         default: return state
     }
 }
