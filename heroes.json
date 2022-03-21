@@ -11,18 +11,6 @@
       "name": "Неизвестный герой",
       "description": "Скрывающийся в тени",
       "element": "wind"
-    },
-    {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
-    },
-    {
-      "id": "1f867ab2-7546-490f-adee-51c61851cb19",
-      "name": "Алексей Худенко",
-      "description": "dsadsadasdsadsad",
-      "element": "water"
     }
   ],
   "filters": [
