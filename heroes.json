@@ -19,10 +19,28 @@
       "element": "water"
     },
     {
-      "id": "93b4fba7-00f5-4930-9e74-dcfd57ee7d6e",
-      "name": "sdsadsadsadsa",
-      "description": "dsadsadsadsadsad",
-      "element": "wind"
+      "id": "bd542d9b-c0cc-4045-8624-976e839cafee",
+      "name": "Алексей Худенко",
+      "description": "Я пока ничего не умею, но я правда очень стараюсь",
+      "element": "water"
+    },
+    {
+      "id": "8bdb2ed4-1eae-49a8-a932-a6008e8670d2",
+      "name": "Loisteg",
+      "description": "Мужик, это я создал это приложение, у тебя биполярка уже",
+      "element": ""
+    },
+    {
+      "id": "d507cda4-e5ec-4b6d-bdb5-b44aa3397e9c",
+      "name": "Алексей Худенко",
+      "description": "Не ты, а препод",
+      "element": "water"
+    },
+    {
+      "id": "f79376bc-a79c-465e-89d5-4309ead829e1",
+      "name": "Loisteg",
+      "description": "А, ну ладно ;(",
+      "element": "earth"
     }
   ],
   "filters": [
