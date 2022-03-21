@@ -40,7 +40,7 @@ const HeroesList = () => {
         }
 
         return arr.map(({id, ...props}) => {
-            return <HeroesListItem {...props} onDelete={() => onDelete(id)}/>
+            return <HeroesListItem {...props} key={id} onDelete={() => onDelete(id)}/>
         })
     }
 
